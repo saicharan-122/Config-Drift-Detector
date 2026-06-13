@@ -104,6 +104,12 @@ Gemini AI Analysis
 - Gemini AI analysis depends on API availability.
 
 ---
+## Team Members
+- Pappala Devi Sai Charan
+- Pentakota Tanuja
+- Peela Divya Santhoshi Lakshmi
+- Bevara Lize
+
 ## Project Links
 
 GitHub Repository:
