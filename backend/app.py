@@ -2,6 +2,7 @@ import os
 import json
 import uuid
 import datetime
+from zoneinfo import ZoneInfo
 from fastapi import FastAPI, HTTPException, Header, Response, Body
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
@@ -104,7 +105,7 @@ async def analyze_config_drift(req: AnalyzeRequest):
         # 4. Save to history
         history_entry = {
             "id": str(uuid.uuid4()),
-            "timestamp": datetime.datetime.now().isoformat(),
+            "timestamp": datetime.datetime.now(ZoneInfo("Asia/Kolkata")).isoformat(),
             "intended_file": req.intended_name,
             "actual_file": req.actual_name,
             "total_drifts": total_drifts,
