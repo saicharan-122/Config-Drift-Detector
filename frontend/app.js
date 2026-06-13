@@ -660,7 +660,9 @@ function renderHistoryTables(history) {
     
     // Build rows (limit dashboard to 5 rows, reports to all)
     history.forEach((run, index) => {
-        const dateStr = new Date(run.timestamp).toLocaleDateString();
+        const dateStr = new Date(run.timestamp).toLocaleString("en-IN", {
+    timeZone: "Asia/Kolkata"
+});
         
         let riskColor = 'text-green';
         if (run.risk_score >= 75) riskColor = 'text-red';
