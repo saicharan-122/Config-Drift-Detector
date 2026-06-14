@@ -119,6 +119,10 @@ Gemini AI Analysis
 - Gemini AI analysis depends on API availability.
 
 ---
+## Demo Video:
+https://drive.google.com/file/d/1YuDMNKHKDWDsYXBzEhrLmPhyHQWeOpty/view?usp=drivesdk
+
+---
 
 ## Project Links
 
