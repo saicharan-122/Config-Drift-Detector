@@ -1,4 +1,19 @@
-# AI-Powered Configuration Drift Detector
+# 🛡️ Config Drift Detector
+
+### Team 04 | UC ID: IM-04 | Infra Maintenence Category
+
+### Infinite Computer Solutions Placement Drive | Round 3 | June 2026
+
+---
+
+## 👥 Team Members
+
+| Name | Roll No | Branch |
+|--------|----------|----------|
+| Pappala Devi Sai Charan | 23U41A0542 | CSE |
+| Pentakota Tanuja | 23U41A0545 | CSE |
+| Bevara Lize | 23U41A4405 | CSD |
+| Peela Divya Santhoshi Lakshmi | 24U45A0423 | ECE |
 
 ## Overview
 
@@ -104,11 +119,6 @@ Gemini AI Analysis
 - Gemini AI analysis depends on API availability.
 
 ---
-## Team Members
-- Pappala Devi Sai Charan
-- Pentakota Tanuja
-- Peela Divya Santhoshi Lakshmi
-- Bevara Lize
 
 ## Project Links
 
