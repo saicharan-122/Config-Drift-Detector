@@ -2,7 +2,7 @@
 
 ### Team 04 | UC ID: IM-04 | Infra Maintenance Category
 
-### Infinite Computer Solutions Placement Drive | Round 3 | June 2026
+### Infinite Computer Solutions Placement Drive | June 2026
 
 ---
 
