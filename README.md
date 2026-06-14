@@ -1,6 +1,6 @@
 # 🛡️ Config Drift Detector
 
-### Team 04 | UC ID: IM-04 | Infra Maintenence Category
+### Team 04 | UC ID: IM-04 | Infra Maintenance Category
 
 ### Infinite Computer Solutions Placement Drive | Round 3 | June 2026
 
