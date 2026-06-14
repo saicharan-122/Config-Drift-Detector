@@ -15,6 +15,8 @@
 | Bevara Lize | 23U41A4405 | CSD |
 | Peela Divya Santhoshi Lakshmi | 24U45A0423 | ECE |
 
+---
+
 ## Overview
 
 The AI-Powered Configuration Drift Detector identifies configuration differences between intended and actual system configurations. It analyzes files, detects drifts, calculates risk scores, and generates reports.
