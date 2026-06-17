@@ -131,6 +131,6 @@ https://drive.google.com/file/d/1YuDMNKHKDWDsYXBzEhrLmPhyHQWeOpty/view?usp=drive
 GitHub Repository:
 https://github.com/saicharan-122/Config-Drift-Detector
 
-Live Demo:
+Live Application:
 https://config-drift-detector.onrender.com
 ---
